@@ -1,0 +1,66 @@
+body {
+    background-color: #f4f3f0;
+}
+
+#name  {
+    font-size: 93px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    color: #05050f;
+    margin: 0px 0px 0px 0px;
+}
+
+.profile-image {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.nav-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+}
+
+
+.job-title {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 60px;
+    color: #0f066f;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    color: #020108;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    color: #0f066f;
+}
+
+.description {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    color: #dedde5;
+    background-color: #0d0d0b;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+}
+
